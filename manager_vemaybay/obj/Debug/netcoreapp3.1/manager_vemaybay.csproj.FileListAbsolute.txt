@@ -1,0 +1,14 @@
+X:\C_sharp_OOP\manager_vemaybay\bin\Debug\netcoreapp3.1\manager_vemaybay.exe
+X:\C_sharp_OOP\manager_vemaybay\bin\Debug\netcoreapp3.1\manager_vemaybay.deps.json
+X:\C_sharp_OOP\manager_vemaybay\bin\Debug\netcoreapp3.1\manager_vemaybay.runtimeconfig.json
+X:\C_sharp_OOP\manager_vemaybay\bin\Debug\netcoreapp3.1\manager_vemaybay.runtimeconfig.dev.json
+X:\C_sharp_OOP\manager_vemaybay\bin\Debug\netcoreapp3.1\manager_vemaybay.dll
+X:\C_sharp_OOP\manager_vemaybay\bin\Debug\netcoreapp3.1\manager_vemaybay.pdb
+X:\C_sharp_OOP\manager_vemaybay\obj\Debug\netcoreapp3.1\manager_vemaybay.csproj.AssemblyReference.cache
+X:\C_sharp_OOP\manager_vemaybay\obj\Debug\netcoreapp3.1\manager_vemaybay.GeneratedMSBuildEditorConfig.editorconfig
+X:\C_sharp_OOP\manager_vemaybay\obj\Debug\netcoreapp3.1\manager_vemaybay.AssemblyInfoInputs.cache
+X:\C_sharp_OOP\manager_vemaybay\obj\Debug\netcoreapp3.1\manager_vemaybay.AssemblyInfo.cs
+X:\C_sharp_OOP\manager_vemaybay\obj\Debug\netcoreapp3.1\manager_vemaybay.csproj.CoreCompileInputs.cache
+X:\C_sharp_OOP\manager_vemaybay\obj\Debug\netcoreapp3.1\manager_vemaybay.dll
+X:\C_sharp_OOP\manager_vemaybay\obj\Debug\netcoreapp3.1\manager_vemaybay.pdb
+X:\C_sharp_OOP\manager_vemaybay\obj\Debug\netcoreapp3.1\manager_vemaybay.genruntimeconfig.cache
